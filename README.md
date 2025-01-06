@@ -1,6 +1,7 @@
-
-# 본 디렉토리 구조는 본 코드블럭을 참고하여 작성합니다.
-------  
+# 아이펠 리서치 과정  
+###  본 디렉토리 구조는 본 코드블럭을 참고하여 작성합니다.  
+------ 
+### 레포지토리의 구조  
 ```  
 AIFFEL_quest_rs  
 ├── MainQuest  
@@ -12,7 +13,7 @@ AIFFEL_quest_rs
 │   │   └── README.md  
 │   ├── Quest04  
 │   │   └── README.md  
-│   └── Quest06  
+│   └── Quest05  
 │       └── README.md  
 │  
 ├── Exploration  
