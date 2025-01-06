@@ -1,7 +1,7 @@
 
 # 본 디렉토리 구조는 본 코드블럭을 참고하여 작성합니다.
 ------  
-'''
+```  
 AIFFEL_quest_rs  
 ├── MainQuest  
 │   ├── Quest01  
@@ -49,5 +49,5 @@ AIFFEL_quest_rs
     ├── GD08  
     │   └── README.md  
     └── GD09  
-        └── README.md 
-''' 
+        └── README.md   
+``` 
