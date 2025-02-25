@@ -15,7 +15,7 @@
         
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
-    - 다양한 vocab size와 model type에 따른 정확도에 대해 분석해주셨습니다.  
+    - 다양한 vocab size와 model type, tokenizer에 따른 정확도에 대해 분석해주셨습니다.  
     - ![Image](https://github.com/user-attachments/assets/ee781cba-e6a9-4a94-a93d-6851ad305249)  
     - ![Image](https://github.com/user-attachments/assets/9439935a-a542-453b-bb53-e5b8138a793f)  
         
@@ -30,6 +30,6 @@
 
 # 회고(참고 링크 및 코드 개선)
 ```
-다양한 vocab size와 model type에 따른 정확도에 대해 분석해주신 부분이 인상적이었습니다. 저도 그 부분에 대해 실험을 해 볼 예정인데 많은 참고가 되었습니다. 수고하셨습니다 :)
+다양한 vocab size와 model type, tokenizer에 따른 정확도에 대해 분석해주신 부분이 인상적이었습니다. 저도 그 부분에 대해 실험을 해 볼 예정인데 많은 참고가 되었습니다. 수고하셨습니다 :)
 ```
 
